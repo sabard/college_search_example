@@ -8,4 +8,5 @@ Excuse the lack of styling; there was no time to brush up on CSS!
 
 1. Make sure to install [yarn](https://classic.yarnpkg.com/en/docs/install/#mac-stable) version 1.22.5 or compatible.
 2. Set the `REACT_APP_GOOGLE_API_KEY` and `REACT_APP_COLLEGE_SCORECARD_API_KEY` environment variables
-3. Start the application with `yarn start` and navigate to `localhost:3000` in your browser
+3. Install dependencies with `yarn install`
+4. Start the application with `yarn start` and navigate to `localhost:3000` in your browser
