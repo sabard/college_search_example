@@ -1,4 +1,4 @@
-# Entera Coding challenge
+# College Search Coding Challenge
 
 Type a college name into the search bar and click to submit to load the location on the map.
 
